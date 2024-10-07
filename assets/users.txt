@@ -1,0 +1,5 @@
+{"id":1,"nombre":"Laura","apellido":"Szmulewicz","email":"laura@mail.com","estudiante":true},
+{"id":2,"nombre":"Pedro","apellido":"Sanchez","email":"pedro@gmail.com","estudiante":true},
+{"id":3,"nombre":"Marta","apellido":"Perez","email":"marta@mail.com","estudiante":false},
+{"id":4,"nombre":"Jose","apellido":"Gimenez","email":"jose@mail.com","estudiante":true},
+{"id":5,"nombre":"Gabriel","apellido":"Hernandez","email":"gabriel@mail.com","estudiante":false}
